@@ -22,5 +22,5 @@ function logWhisper(string)
 
 function sayHiToGrandma(string)
 {
-  if(st)
+  if(string = uppercase)
 }
